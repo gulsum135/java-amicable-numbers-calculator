@@ -15,12 +15,6 @@ Java konsol uygulaması: Bölenler toplamı ve arkadaş sayı çiftlerini bulur.
 - Java JDK 17 veya üzeri  
 - (Opsiyonel) Eclipse IDE veya IntelliJ IDEA
 
----
-
-## 👨‍💻 Yazar
-Bu proje, **Java programlama dersi ödevi** kapsamında geliştirilmiştir.  
-Kod örnekleri ve algoritmalar, eğitim amaçlı olarak paylaşılmıştır.
-
 
 
 
